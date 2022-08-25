@@ -161,18 +161,22 @@ body{
 
 @media (max-width:375px){
     #drag-container img, #drag-container video{
-    width: 130%;
-    height: 130%;
+    width: 100%;
+    height: 100%;
    left: 0px;
-    top: 0;
-        margin: auto;
+    top: -10px;
+
+
+
 
 
 }
     #drag-container, #spin-container{
         -webkit-transform: rotateX(0deg);
     transform: rotateX(0deg);
+
     }
+
     #drag-container p{
         left: 20%;
     }
