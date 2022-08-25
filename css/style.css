@@ -191,12 +191,7 @@ h1{
          margin-bottom: 20px;
          margin-top: 20px;
      }
-.useful-links img{
-         display: none;
-     }
-     .content button{
-         display: none;
-     }
+
 
     }
 
@@ -210,12 +205,7 @@ h1{
     justify-content: space-around;
 
 }
-    .useful-links img{
-         display: none;
-     }
-     .content button{
-         display: none;
-     }
+
 }
  @media (max-width:375px){
 
@@ -241,12 +231,7 @@ h1{
          margin-bottom: 20px;
          margin-top: 20px;
      }
-    .useful-links img{
-         display: none;
-     }
-     .content button{
-         display: none;
-     }
+
 
     }
 
@@ -278,12 +263,7 @@ h1{
 
 
 }
-    .useful-links img{
-         display: none;
-     }
-     .content button{
-         display: none;
-     }
+
 }
  @media (max-width:320px){
 
@@ -298,12 +278,7 @@ h1{
 
 }
 
-     .useful-links img{
-         display: none;
-     }
-     .content button{
-         display: none;
-     }
+
      .content{
          margin-top: 32px;
          font-size: 20px;
