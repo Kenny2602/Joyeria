@@ -245,12 +245,7 @@ h1{
     justify-content: space-around;
 
 }
-    .useful-links img{
-         display: none;
-     }
-     .content button{
-         display: none;
-     }
+
 }
 @media (max-width:321px){
     .navbar{
