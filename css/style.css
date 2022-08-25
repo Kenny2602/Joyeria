@@ -154,3 +154,134 @@ h1{
 }
 
 
+
+@media (max-width:693px){
+    .navbar{
+
+    width: 100%;
+
+    display: flex;
+
+    justify-content: space-around;
+
+}
+}
+
+    @media (max-width:425px){
+
+.navbar{
+
+    width: 100%;
+
+    display: flex;
+
+    justify-content: space-around;
+}
+        .content{
+         margin-top: 39px;
+         font-size: 25px;
+     }
+
+     h1{
+         font-size: 32px;
+         line-height: 60px;
+     }
+
+     button{
+         margin-bottom: 20px;
+         margin-top: 20px;
+     }
+
+
+    }
+
+
+ @media (max-width:375px){
+
+.navbar{
+
+    width: 80%;
+
+    display: flex;
+
+    justify-content: space-around;
+}
+          .content{
+         margin-top: 32px;
+         font-size: 25px;
+     }
+
+     h1{
+         font-size: 32px;
+         line-height: 60px;
+     }
+
+     button{
+         margin-bottom: 20px;
+         margin-top: 20px;
+     }
+
+
+    }
+@media (max-width:400px){
+    .navbar{
+
+    width: 74%;
+
+    display: flex;
+
+    justify-content: space-around;
+
+}
+}
+@media (max-width:331px){
+    .navbar{
+
+    width: 74%;
+
+    display: flex;
+
+    justify-content: space-around;
+
+}
+}
+@media (max-width:321px){
+    .navbar{
+
+    width: 74%;
+
+    display: flex;
+
+    justify-content: space-around;
+
+}
+}
+ @media (max-width:320px){
+
+.navbar{
+
+    width: 50%;
+
+    display: block;
+
+    justify-content: space-around;
+
+
+}
+
+     .content{
+         margin-top: 32px;
+         font-size: 20px;
+     }
+
+     h1{
+         font-size: 28px;
+         line-height: 60px;
+     }
+
+     button{
+         margin-bottom: 20px;
+         margin-top: 20px;
+     }
+    }
+
