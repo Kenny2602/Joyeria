@@ -197,6 +197,7 @@ body{
     #drag-container, #spin-container{
         -webkit-transform: rotateX(0deg);
     transform: rotateX(0deg);
+
     }
 
     #drag-container p{
