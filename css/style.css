@@ -195,7 +195,17 @@ h1{
 
     }
 
+@media (max-width:400px){
+    .navbar{
 
+    width: 74%;
+
+    display: flex;
+
+    justify-content: space-around;
+
+}
+}
  @media (max-width:375px){
 
 .navbar{
@@ -223,17 +233,7 @@ h1{
 
 
     }
-@media (max-width:400px){
-    .navbar{
 
-    width: 74%;
-
-    display: flex;
-
-    justify-content: space-around;
-
-}
-}
 @media (max-width:331px){
     .navbar{
 
@@ -270,18 +270,18 @@ h1{
 }
 
      .content{
-         margin-top: 20px;
-         font-size: 15px;
+         margin-top: 32px;
+         font-size: 20px;
      }
 
      h1{
-         font-size: 25px;
-         line-height: 50px;
+         font-size: 28px;
+         line-height: 60px;
      }
 
      button{
-         margin-bottom: 0px;
-         margin-top: 0px;
+         margin-bottom: 20px;
+         margin-top: 20px;
      }
     }
 
