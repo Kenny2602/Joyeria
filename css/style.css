@@ -270,18 +270,18 @@ h1{
 }
 
      .content{
-         margin-top: 32px;
-         font-size: 20px;
+         margin-top: 20px;
+         font-size: 15px;
      }
 
      h1{
-         font-size: 28px;
-         line-height: 60px;
+         font-size: 25px;
+         line-height: 50px;
      }
 
      button{
-         margin-bottom: 20px;
-         margin-top: 20px;
+         margin-bottom: 0px;
+         margin-top: 0px;
      }
     }
 
