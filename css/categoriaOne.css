@@ -72,7 +72,7 @@ a{
 
 .side-bar{
     width: 50px;
-    height: 100vh;
+    height: 100%;
     background: linear-gradient(#3B3938,#3B3938);
     position: absolute;
     right: 0;
